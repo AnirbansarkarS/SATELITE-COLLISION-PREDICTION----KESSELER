@@ -44,7 +44,7 @@ satellite-collision-predictor/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/AirbansarkarS/.git
+git clone https://github.com/AirbansarkarS/.git](https://github.com/AnirbansarkarS/SATELITE-COLLISION-PREDICTION----KESSELER.git
 cd satellite-collision-predictor
 pip install -r requirements.txt
 ```
