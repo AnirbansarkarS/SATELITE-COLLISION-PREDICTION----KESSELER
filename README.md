@@ -1,9 +1,3 @@
-Perfect 🚀 Let’s make a clean **README.md** for your **Satellite Collision Prediction (Logistic Regression)** project.
-
-Here’s a draft you can drop directly into your repo:
-
----
-
 # 🛰️ Satellite Collision Prediction using Logistic Regression
 
 ## 📌 Overview
@@ -50,7 +44,7 @@ satellite-collision-predictor/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/satellite-collision-predictor.git
+git clone https://github.com/AirbansarkarS/.git
 cd satellite-collision-predictor
 pip install -r requirements.txt
 ```
@@ -126,12 +120,4 @@ Results are stored under `outputs/results/`.
 
 Pull requests are welcome! If you’d like to add features (e.g., real satellite tracking APIs), please open an issue first.
 
----
 
-## 📜 License
-
-MIT License © 2025 Your Name
-
----
-
-👉 Do you want me to also include **sample code for visualization** (confusion matrix + ROC curve plots) in the README so people can directly run it?
